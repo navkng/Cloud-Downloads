@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2562",
+  "folder": "YouTube__watch_20260518151329_6dd84b",
+  "base_name": "25MIN_Full_Body_Calisthenic_Body-Weight_Workout_t1uZG3OhH4c_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/navkng/Cloud-Downloads/releases/tag/co-releases-v1-2562",
+  "files": [
+    {
+      "name": "25MIN_Full_Body_Calisthenic_Body-Weight_Workout_t1uZG3OhH4c_1080p.mp4",
+      "url": "https://github.com/navkng/Cloud-Downloads/releases/download/co-releases-v1-2562/25MIN_Full_Body_Calisthenic_Body-Weight_Workout_t1uZG3OhH4c_1080p.mp4",
+      "api_url": "https://api.github.com/repos/navkng/Cloud-Downloads/releases/assets/423389167",
+      "id": 423389167,
+      "size": 170893613,
+      "download_count": 0
+    }
+  ]
+}
