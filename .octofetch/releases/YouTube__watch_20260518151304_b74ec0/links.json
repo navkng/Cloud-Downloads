@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3908",
+  "folder": "YouTube__watch_20260518151304_b74ec0",
+  "base_name": "3_Habits_for_a_Productive_Routine_After_Work_1bM_gAGDFrc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/navkng/Cloud-Downloads/releases/tag/co-releases-v1-3908",
+  "files": [
+    {
+      "name": "3_Habits_for_a_Productive_Routine_After_Work_1bM_gAGDFrc_1080p.mp4",
+      "url": "https://github.com/navkng/Cloud-Downloads/releases/download/co-releases-v1-3908/3_Habits_for_a_Productive_Routine_After_Work_1bM_gAGDFrc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/navkng/Cloud-Downloads/releases/assets/423388775",
+      "id": 423388775,
+      "size": 50601738,
+      "download_count": 0
+    }
+  ]
+}
